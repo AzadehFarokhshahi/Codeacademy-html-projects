@@ -15,26 +15,29 @@ p {
   margin: 0 auto;
   color:white;
   text-align: center;
-  
+  margin-bottom:20px;
 }
 
 /* Main */
 .main {
   
-  height: 600px;
+  height: 700px;
   background:url("https://s3.amazonaws.com/codecademy-content/projects/move/bg.jpg");
   background-size: 100% auto;
   text-align: center; 
- 
+
 }
 .main .btn{
   color:white;
   background-color:black;
+  padding:10px 40px 10px;
+  text-transform:uppercase;
+  font-style:none;
 }
 
 .main h1 {
   font-size: 150px;
-   padding: 100px 0 0;
+   padding: 300px 0 30px;
   line-height: 100px; 
 	margin-top: 0;
 	margin-bottom: 80px;
@@ -52,9 +55,9 @@ p {
 /* Supporting */
 .supporting {
   text-align: center;
-  padding: 50px 0 80px;
+  padding: 20px 0 60px;
   background-color:#1c1c1c;
-
+	height:220px;
 
 }
 
@@ -63,15 +66,15 @@ p {
   width: 33%;
   padding: 10px;
   text-align:center;
-
+	text-transform:uppercase;
 }
 
 .supporting h1,
 .supporting h2 {
   color: #ffa800;
-  font-size: 20px;
+  font-size: 40px;
   margin-bottom: 10px;
-
+	text-transform:uppercase;
   
 }
 
@@ -98,9 +101,11 @@ p {
 
 /* Feature */
 .feature {
-  height: 600px;
+  height: 700px;
   background:url("https://s3.amazonaws.com/codecademy-content/projects/move/feature.jpg");
-   background-size: 100% auto;
+  background-size:100% auto;
+  padding:20px 0 0;
+  
 }
 
 .feature h1,
@@ -113,25 +118,19 @@ p {
 
 /* Footer */
 .footer {
-  height: 600px;
+  height: 700px;
   background:url("https://s3.amazonaws.com/codecademy-content/projects/move/footer.jpg");
   background-size: 100% auto;
+ padding:20px 0 0;
 }
 
 .footer h1,
 .footer h2 {
   color: #fff;
-  font-size: 40px;
-  margin: 0 0 20px 0;
-  padding:300px 0 0;
+  font-size: 40px; 
+  padding:400px 0 0;
+  text-transform:uppercase;
 }
-
-.footer p {
-  color: #fff;
-  margin: 0 0 20px 0;
-  font-size: 18px;
-}
-
 
 @media (min-width:600px) {
   .main h1 {
