@@ -65,9 +65,9 @@ body{
 
 /*footer*/
 .download{
-	color:rgba(0,255,188,0.5);
+  color:rgba(0,255,188,0.5);
   text-align:center;
-  
+  margin-bottom:80px;
 }
 .btn{
  color: #fff;
