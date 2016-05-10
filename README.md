@@ -8,3 +8,5 @@ RedEye: https://www.codecademy.com/azadehf/codebits/WR74oO
 Junction: https://www.codecademy.com/azadehf/codebits/UcQHwx
 
 Move: https://www.codecademy.com/azadehf/codebits/tXMST0
+
+Headlines: https://www.codecademy.com/azadehf/codebits/jnAgjZ
