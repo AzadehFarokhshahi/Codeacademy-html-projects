@@ -16,3 +16,5 @@ Excursion: https://www.codecademy.com/azadehf/codebits/dNnSIU
 Pocketbook: https://www.codecademy.com/azadehf/codebits/zwzaOd
 
 Bass:https://www.codecademy.com/azadehf/codebits/ygbTn5
+
+Newsroom: https://www.codecademy.com/azadehf/codebits/nDgpFn
